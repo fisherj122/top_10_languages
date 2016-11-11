@@ -1,0 +1,68 @@
+img {
+  float:right;
+  max-width: 40%;
+
+    clear: both;
+}
+h2 {
+  /*float:left;*/
+  padding-right: 5px;
+  padding-top: 0;
+  padding-bottom: 10px;
+
+}
+
+.row4 img{
+  max-width: 20%;
+}
+
+.lang_title{
+  text-align: center;
+
+}
+
+.row1 img{
+  max-width: 30%;
+}
+/*.row1 p {
+  font-size: relative;
+
+}*/
+
+.jumbotron{
+  background-color: white;
+  margin-right:0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  background-color: #F5F5F5;
+    border-radius: 20px;
+}
+.row1 , .row2, .row3, .row4 {
+  background-color: white;
+  margin-left: 15px;
+  border-radius: 20px;
+}
+
+.content{
+
+  box-sizing: none;
+}
+
+.item img{
+min-height: 400px;
+max-height: 400px;
+width: 1000px;
+align: center;
+}
+
+#myCarousel .carousel slide{
+  margin: 5px, 50px, 5px, 50px;
+  padding-left: 30px;
+  /*position: inherit;*/
+}
+
+.carousel_inner{
+  padding-left: 30px;
+}
